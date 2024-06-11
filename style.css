@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+  overflow-x:hidden; /* скрыть горизонтальный скрол */
+}
+a {
+  text-decoration: none;
+}
+.link {
+  color: cornflowerblue !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
+}
+#title {
+  color: #4d18df; /* background стилизация по ID */
+}
+#mainLink {
+  color: #ef7373;
+}
+.title {
+  color: #0aa691; /* background стилизация по классу */
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700 !important;
+}
+.text{
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  color: #cb20cb;
+}
+.subtitle {
+  color: #e0921c; /* background стилизация по классу */
+  font-size: 36px;
+  font-style: normal;
+  line-height: 80px;
+  font-weight: 500 !important;
+}
+.picture {
+  border-radius: 30px;
+
+}

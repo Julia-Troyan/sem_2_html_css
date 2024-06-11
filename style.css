@@ -49,3 +49,11 @@ a {
   font-size: 14px;
   line-height: 30px;
 }
+.btn {
+  background-color: #ecc893;
+  width: 100px !important;
+  height: 30px;
+  border: 1px solid #1381a5;
+  font-size: 14px;
+  border-radius: 10px !important;
+}
